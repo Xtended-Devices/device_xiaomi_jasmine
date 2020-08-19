@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_jasmine_sprout.mk
+    $(LOCAL_DIR)/xtended_jasmine_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_jasmine_sprout-user \
-    lineage_jasmine_sprout-userdebug \
-    lineage_jasmine_sprout-eng
+    xtended_jasmine_sprout-user \
+    xtended_jasmine_sprout-userdebug \
+    xtended_jasmine_sprout-eng

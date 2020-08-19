@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_xiaomi_wayne-common",
+    "target_path": "device/xiaomi/wayne-common"
+  },
+  {
+    "repository": "vendor_xiaomi_jasmine_sprout",
+    "target_path": "vendor/xiaomi/jasmine_sprout"
+  }
+]
